@@ -1,0 +1,39 @@
+<resources>
+    <!--for Assignment 3 I changed the colours for demonstration.-->
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#5d92ed</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <!--For Assignment 3 I kept the app bar and status bar the same colour-->
+    <color name="primary_dark_color">#5d92ed</color>
+
+    <!-- Color for the Big Text category
+    created for Assignment 3-->
+    <color name="big_text">#0d0d0d</color>
+
+
+    <!-- Background color for the family members category -->
+    <color name="accent">#497370</color>
+
+    <!-- Background color for the colors category -->
+    <color name="bg_remind">#d164ff22</color>
+
+    <!-- Background color for app -->
+    <color name="tan_background">#bbe9ac04</color>
+
+    <!-- Background color for the numbers category -->
+    <color name="category_numbers">#09c0fd</color>
+
+    <!-- Background color for the family members category -->
+    <color name="category_family">#924837</color>
+
+    <!-- Background color for the colors category -->
+    <color name="category_colors">#f90505</color>
+
+    <!-- Background color for the phrases category -->
+    <color name="category_phrases">#82ca16</color>
+
+
+    <color name="category_white">#FFF</color>
+
+</resources>
